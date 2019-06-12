@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>24/search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.4361839,14.7290771 L19.5104076,18.8033009 C19.7056698,18.998563 19.7056698,19.3151455 19.5104076,19.5104076 C19.3151455,19.7056698 18.998563,19.7056698 18.8033009,19.5104076 L14.7290771,15.4361839 C13.5923025,16.4110318 12.114914,17 10.5,17 C6.91022727,17 4,14.0897727 4,10.5 C4,6.91022727 6.91022727,4 10.5,4 C14.0897727,4 17,6.91022727 17,10.5 C17,12.114914 16.4110318,13.5923025 15.4361839,14.7290771 Z M5,10.5 C5,13.5374906 7.46250945,16 10.5,16 C13.5374906,16 16,13.5374906 16,10.5 C16,7.46250945 13.5374906,5 10.5,5 C7.46250945,5 5,7.46250945 5,10.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OfiliateOne_faq" transform="translate(-1016.000000, -127.000000)">
+            <g id="Group-14" transform="translate(552.000000, 103.000000)">
+                <g id="Group-9" transform="translate(264.000000, 12.000000)">
+                    <g id="Group-10" transform="translate(196.000000, 8.000000)">
+                        <g id="24/search">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#2a2b30" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="color/black" mask="url(#mask-2)"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

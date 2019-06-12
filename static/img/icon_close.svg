@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>24/close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,11.2286108 L6.93114915,6.15975994 C6.7181359,5.94674669 6.37277319,5.94674669 6.15975994,6.15975994 C5.94674669,6.37277319 5.94674669,6.7181359 6.15975994,6.93114915 L11.2286108,12 L6.15975994,17.0688508 C5.94674669,17.2818641 5.94674669,17.6272268 6.15975994,17.8402401 C6.37277319,18.0532533 6.7181359,18.0532533 6.93114915,17.8402401 L12,12.7713892 L17.0688508,17.8402401 C17.2818641,18.0532533 17.6272268,18.0532533 17.8402401,17.8402401 C18.0532533,17.6272268 18.0532533,17.2818641 17.8402401,17.0688508 L12.7713892,12 L17.8402401,6.93114915 C18.0532533,6.7181359 18.0532533,6.37277319 17.8402401,6.15975994 C17.6272268,5.94674669 17.2818641,5.94674669 17.0688508,6.15975994 L12,11.2286108 L12,11.2286108 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Burger_menu_open" transform="translate(-337.000000, -26.000000)">
+            <g id="24/close" transform="translate(331.000000, 20.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#0C1729" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="color/gray" mask="url(#mask-2)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

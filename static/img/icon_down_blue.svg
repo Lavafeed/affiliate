@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>24/chevron_down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.4316147,6.10109009 C11.5621476,5.9657764 11.7732018,5.96638249 11.9030174,6.10244385 C12.032833,6.2385052 12.0322516,6.45849815 11.9017187,6.59381184 L8,10.6666667 L4.09828135,6.59381184 C3.96774844,6.45849815 3.96716697,6.2385052 4.0969826,6.10244385 C4.22679823,5.96638249 4.43785242,5.9657764 4.56838533,6.10109009 L8,9.68662332 L11.4316147,6.10109009 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OfiliateOne_faq" transform="translate(-188.000000, -169.000000)">
+            <g id="Group-13" transform="translate(0.000000, 63.000000)">
+                <g id="24/chevron_down" transform="translate(184.000000, 100.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Path" fill="#0c79f8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="color/gray" mask="url(#mask-2)"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
